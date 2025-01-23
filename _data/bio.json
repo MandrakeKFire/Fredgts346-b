@@ -2,7 +2,7 @@
   "basics": {
     "name": "Alfredo Garcia",
     "label": "Data Scientist | Project Manager | Industrial Chemical Engineer | Data Engineer",
-    "picture": "https://github.com/MandrakeKFire/Fredgts346-b/blob/main/img/Fred.png",
+    "picture": "./img/Fred.png",
     "email": "alfred.paralegal967@passinbox.com",
     "phone": "+52 55 4919 8750",
     "website": "https://mandrakekfire.github.io/My_Resume/",
