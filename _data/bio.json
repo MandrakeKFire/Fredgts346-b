@@ -1,118 +1,120 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Alfredo Garcia",
+    "label": "Data Scientist | Project Manager | Industrial Chemical Engineer | Data Engineer",
+    "picture": "https://github.com/MandrakeKFire/My_Resume/blob/main/images/Fred.png",
+    "email": "alfred.paralegal967@passinbox.com",
+    "phone": "+52 55 4919 8750",
+    "website": "https://mandrakekfire.github.io/My_Resume/",
+    "summary": "Innovative and results-driven professional with a solid background in Industrial Chemical Engineering and experience in project management, data science, and data engineering. I have skills in managing complex projects, improving operational efficiency, and creating innovative, data-driven solutions to industry problems. My skills include advanced analytics, machine learning, regulatory compliance, and team leadership, all of which I have successfully utilized to drive impact. I am capable and experienced with extracting data to identify trends, mitigate risks, and drive continuous improvement. By combining technical acumen in tools like SQL, Python, R, Tableau, and cloud platforms with strong leadership and communication skills, I thrive in dynamic environments that demand innovative strategies and cross-functional collaboration. Passionate about bridging the gap between engineering and data science, I am committed to fostering excellence, promoting safety and quality, and delivering transformative solutions that make a lasting impact in the industry.",
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "Github",
+        "username": "MandrakeKFire",
+        "url": "https://github.com/MandrakeKFire"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Alfredo Garcia",
+        "url": "https://www.linkedin.com/in/alfredo-garcia-267a19308/"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Automation and Efficiency Improvement",
+      "keywords": [
+        "MLOps",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Continuous Learning and Upskilling",
+      "keywords": [
+        "Natural Language Processing (NLP)",
+        "Generative AI (LLMs)",
+        "Reinforcement Learning",
+        "Graph Databases"
+      ]
+    },
+    {
+      "name": "Ethical AI",
+      "keywords": [
+        "Data Privacy"
+      ]
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "Python",
+        "Microsoft Excel",
+        "Power BI",
+        "Tableau",
+        "Snowflake",
+        "C++",
+        "Java",
+        "Javascript",
+        "Kubernetes",
+        "Databricks"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "level": "Intermediate",
+      "keywords": [
+        "Windows",
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub"
+      ]
     }
   ],
-  "education": [
+  "Education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
+      "Institution": "TecNM, CDMX, MX",
+      "Area": "Industrial Chemical Engineering (2019)",
+      "StudyType": "B.S.",
+      "Courses and certifications": [
+        "Google Cybersecurity",
+        "Google Business Intelligence",
+        "Google Data Analytics",
+        "Google Data Analytics Specialization",
+        "Google Advanced Data Analytics",
+        "Google IT Support",
+        "Google IT Automation with Python",
+        "Google Project Management",
+        "Google UX Design",
+        "Google Marketing Digital e E-Commerce"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Truper",
+      "position": "Data scientist | Project manager | Commercial supervisor",
+      "startDate": "March, 2022",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Designed and implemented scalable data solutions by automating processes",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Automation of data processes using tools such as Python and SQL",
+        "Development of the company's monthly and weekly databases",
+        "Optimizing data storage and processing in Azure to support accurate reporting"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Modastage",
+      "position": "Waste water treatment plant supervisor | Data analyst",
+      "startDate": "March 2019",
+      "endDate": "March 2022",
+      "summary": "Leveraged data-driven insights and technical expertise to optimize maintenance strategies",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Align production with quality and safety goals",
+        "Ensuring regulatory compliance through technical documentation and targeted maintenance programs"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
