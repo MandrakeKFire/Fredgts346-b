@@ -1,4 +1,2 @@
 # Professional Portfolio
-
-Resources:
-![Alt text](img/Fred.png)
+Tech portfolio (Working on)
